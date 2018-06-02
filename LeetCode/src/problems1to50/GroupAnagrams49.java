@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class FroupAnagrams49 {
+public class GroupAnagrams49 {
 	static List<Map<Character, Integer>> mapList;
 	static Map<Character, Integer> tempMap;
 	public static void main(String[] args) {
