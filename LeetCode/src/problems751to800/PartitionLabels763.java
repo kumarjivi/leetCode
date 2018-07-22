@@ -3,8 +3,6 @@ package problems751to800;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 /***
  * A string S of lowercase letters is given. We want to partition this string
  * into as many parts as possible so that each letter appears in at most one
