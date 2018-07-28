@@ -6,7 +6,7 @@ public class ConstructBinaryFromPreAndIn105 {
 	int[] pre;
     int[] in;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        int pe=preorder.length-1;
+//        int pe=preorder.length-1;
         int ps=0;
         int is=0;
         int ie=inorder.length-1;
