@@ -8,7 +8,7 @@ package problems851to900;
  * @author jivi
  *
  */
-public class PrimePalindrome867 {
+public class PrimePalindrome866 {
 
 	public static void main(String[] args) {
 		int num = 9547458;
